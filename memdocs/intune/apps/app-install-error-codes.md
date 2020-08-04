@@ -97,7 +97,7 @@ The following error messages and descriptions provide details about iOS/iPadOS i
 | 0x87D13B80 | -2016330880 | CannotConnectToITunesStoreError | App install   failed due to failure to Connect To ITunes Store |
 | 0x87D13B9F  | -2016330849 | The VPP App has an update   available | This code is returned when a   VPP app is installed but there is a newer version available. |
 | 0x87D13B9E | 2016330850 | Can't enforce app uninstall setting. Retry installing the app. | The app is already installed on the device but the "uninstall on retire" setting does not match the configured value. Advise the user to request the app-install from Company Portal to attempt applying the "uninstall on retire" setting again. |
-
+| 0x87D13B92 | 2016330851 | VPP App licensing pending user consent. Ensure the user has accepted the VPP management invite | VPP app deployment is still user consent. Ask customer to accept it or deploy the app using device licensing
 
 ## Other installation errors
 
